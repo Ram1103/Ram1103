@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm A.Ramachandran</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate UI/UX designer,frontend developer, learning rust and solidity from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ram1103&label=Profile%20views&color=0e75b6&style=flat" alt="ram1103" /> </p>
 
