@@ -5,25 +5,25 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ram1103" alt="ram1103" /></a> </p>
 
-- 🔭 I’m currently working on [My Portfolio](https://github.com/Ram1103/Ram1103.github.io)
+- 🔭 I’m currently working on Machine Learning 
 
-- 🌱 I’m currently learning **Js,Git**
+- 🌱 I’m currently learning **Tensorflow and keras**
 
-- 👯 I’m looking to collaborate on **Web dev projects**
+- 👯 I’m looking to collaborate on **ML projects**
 
-- 🤝 I’m looking for help with [Ui/Ux](https://github.com/Ram1103/Ram1103.github.io)
+- 🤝 I’m looking for help with Machine learning!
 
 - 👨‍💻 All of my projects are available at [https://ram1103.github.io](https://ram1103.github.io)
 
-- 📝 I regularly write articles on [https://ram1103.github.io](https://ram1103.github.io)
+- 📝 I regularly write articles on [Medium](https://medium.com/@a.ramachandran.2002)
 
-- 💬 Ask me about **Design, C++,Python**
+- 💬 Ask me about **Design, C++,Python,ML**
 
 - 📫 How to reach me **a.ramachandran.2002@gmail.com**
 
 - 📄 Know about my experiences [https://ram1103.github.io](https://ram1103.github.io)
 
-- ⚡ Fun fact **I think I more than 5 languages, and I love muruku**
+- ⚡ Fun fact **I love books and coffee**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
