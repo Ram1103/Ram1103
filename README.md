@@ -1,4 +1,4 @@
-# 💫 Hi👋, This is Ramachandran A:
+# Hi👋, This is Ramachandran A:
 🔭 I’m currently working on Machine Learning<br>🌱 I’m currently learning Tensorflow and keras<br>👯 I’m looking to collaborate on ML projects<br>👨‍💻 All of my projects are available at https://ram1103.github.io<br>📝 I regularly write articles on Medium<br>💬 Ask me about Design, C++,Python,ML<br>📫 How to reach me a.ramachandran.2002@gmail.com<br>📄 Know about my experiences https://ram1103.github.io<br>⚡ Fun fact I love books and coffee
 
 
